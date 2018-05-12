@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3384
     wikipedia: http://en.wikipedia.org/wiki/Jackson_Gregory
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18964#Wolf-Breed
 gutenberg_issued: '2006-08-02'
 gutenberg_type: Text
 identifiers:
